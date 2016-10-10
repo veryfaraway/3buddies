@@ -6,21 +6,21 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en" # todo: replace to ko-KR
 title                    : "3 Buddies"
 title_separator          : "|"
 name                     : "야근반장"
 description              : "Movies, Games and Travels"
-url                      : https://veryfaraway.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /3buddies # the subpath of your site, e.g. "/blog"
-repository               : veryfaraway/3buddies # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+url                      : "https://veryfaraway.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/3buddies" # the subpath of your site, e.g. "/blog"
+repository               : "veryfaraway/3buddies" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "default-teaser.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "3-buddies" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "UA-85440841-1"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "야근반장"
+  avatar           : "my-avatar.svg"
+  bio              : "I am a movieholic."
+  location         : "Seoul, Korea"
   email            :
   uri              :
   bitbucket        :
