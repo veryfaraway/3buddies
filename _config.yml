@@ -266,3 +266,4 @@ defaults:
       author_profile: false
       sidebar:
         nav: "category"
+      comments: true
