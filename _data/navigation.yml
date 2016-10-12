@@ -1,7 +1,42 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Blu-ray"
+    url: /bluray
 
-  - title: "Sample Navigation Link 2"
+  - title: "Films"
+    url: /films
+
+  - title: "Games"
+    url: /games
+
+  - title: "Travels"
+    url: /travels
+
+  - title: "Tags"
+    url: /tags
+
+  - title: "Archives"
+    url: /year-archive
+
+category:
+  - title: "Home"
     url: /
+  - title: "Categories"
+    children:
+      - title: "Blu-ray"
+        url: /bluray
+      - title: "Films"
+        url: /films
+      - title: "Games"
+        url: /games
+      - title: "Travels"
+        url: /travels
+
+  - title: "Links"
+    children:
+      - title: "겨자씨"
+        url: http://lovelywolf.tistory.com
+      - title: "주경야근"
+        url: http://veryfaraway.github.io/digging
+      - title: "Minimal Mistakes Theme"
+        url: https://mmistakes.github.io/minimal-mistakes/
