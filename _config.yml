@@ -267,3 +267,4 @@ defaults:
       sidebar:
         nav: "category"
       comments: true
+      share: false

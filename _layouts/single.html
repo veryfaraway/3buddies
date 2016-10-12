@@ -33,7 +33,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <div class="page__meta">
+      <section class="page__content">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- lifemate 본문상단 -->
         <ins class="adsbygoogle"
@@ -44,7 +44,8 @@ layout: default
         <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
-      </div>
+        <br/>
+      </section>
 
       <section class="page__content" itemprop="text">
         {{ content }}
@@ -67,7 +68,7 @@ layout: default
 
       {% include post_pagination.html %}
 
-      <div class="page__meta">
+      <footer class="page__meta">
         <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- lifemate 본문하단 -->
         <ins class="adsbygoogle"
@@ -78,8 +79,7 @@ layout: default
         <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
-      </div>
-
+      </footer>
     </div>
 
     {% if site.comments.provider and page.comments %}
