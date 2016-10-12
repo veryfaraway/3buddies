@@ -3,8 +3,8 @@ title: "택시 드라이버 40주년 기념행사"
 header:
   image: post/taxi_driver_40th_cast_reunion.jpg
   teaser: teaser/taxi_driver_40th_anniversary_teaser.jpg
-categories: [films]
-tags: [taxi driver, anniversary, jodie foster, robert de niro]
+categories: ["films"]
+tags: ["taxi driver", "anniversary", "jodie foster", "robert de niro"]
 keywords: taxi driver
 modified: 2016-10-10
 ---
