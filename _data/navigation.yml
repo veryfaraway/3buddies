@@ -3,14 +3,8 @@ main:
   - title: "Blu-ray"
     url: /bluray
 
-  - title: "Films"
-    url: /films
-
-  - title: "Games"
-    url: /games
-
-  - title: "Travels"
-    url: /travels
+  - title: "Category"
+    url: /categories
 
   - title: "Tags"
     url: /tags
@@ -21,10 +15,11 @@ main:
 category:
   - title: "Home"
     url: /
-  - title: "Categories"
+  - title: "Blu-ray"
+    url: /bluray
+  - title: "Category"
+    url: /categories
     children:
-      - title: "Blu-ray"
-        url: /bluray
       - title: "Films"
         url: /films
       - title: "Games"
