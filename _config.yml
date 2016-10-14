@@ -256,8 +256,6 @@ defaults:
       type: pages
     values:
       layout: single
-      sidebar:
-        nav: "category"
   # _bluray
   - scope:
       path: ""

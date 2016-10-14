@@ -3,7 +3,7 @@ title: "한글자막 블루레이(이탈리아)"
 excerpt: "이탈리아 출시 한글자막 블루레이 리스트"
 header:
   overlay_image: post/banner-italy.jpg
-  teaser: teaser/subtitle.jpg
+  teaser: teaser/flag_italy.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 이탈리아
 modified: 2016-10-13
@@ -22,10 +22,11 @@ modified: 2016-10-13
 
 |타이틀명               |타입   |비고                           |
 |----------------     |:---:|-------------------------------|
-|[007 - Diamonds Are Forever](http://amzn.to/2e4eN9b)|-||
-|[007 - The Spy Who Loved Me](http://amzn.to/2dSVBjs)|-||
-|[007 - Tomorrow Never Dies](http://amzn.to/2e7mTxR)|-||
+|[007 - Diamonds Are Forever](http://amzn.to/2e4eN9b)|-|서플 자막|
+|[007 - The Spy Who Loved Me](http://amzn.to/2dSVBjs)|-|서플 자막|
+|[007 - Tomorrow Never Dies](http://amzn.to/2e7mTxR)|-|서플 자막|
 |[007 - James Bond Collection](http://amzn.to/2dPc4VG)|-|Dr. No(한글자막 o)<br/>From Russia with Love(한글자막 o)<br/>Goldfinger<br/>Thunderball<br/>You Only Live Twice(한글자막 o)<br/>On Her Majesty's Secret Service(한글자막 o)<br/>Diamonds Are Forever(한글자막 o)<br/>Live and Let Die<br/>The Man with the Golden Gun<br/>The Spy Who Loved Me(한글자막 o)<br/>Moonraker<br/>For Your Eyes Only<br/>Octopussy(한글자막 o)<br/>A View to a Kill(한글자막 o)<br/>The Living Daylights(한글자막 o)<br/>Licence to Kill<br/>GoldenEye(한글자막 o)<br/>Tomorrow Never Dies(한글자막 o)<br/>The World is Not Enough<br/>Die Another Day<br/>Casino Royale<br/>Quantum of Solace<br/>Skyfall<br/>Spectre|
+|[10,000 BC](http://amzn.to/2dTcQRT)|-|2011년 출시(Heroes Collection), 서플 자막|
 |[Taken 3](http://amzn.to/2ekdo2p)|-||
 |[Taken 3](http://amzn.to/2ekbnmS)|SteelBook||
 ||||
@@ -36,4 +37,7 @@ modified: 2016-10-13
 
 * [한글자막 블루레이(미국)]({% link _bluray/2016-10-10-blu-ray-list-korean-subs-usa.md %})
 * [한글자막 블루레이(캐나다)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-canada.md %})
+* [한글자막 블루레이(영국)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-uk.md %})
+* [한글자막 블루레이(독일)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-germany.md %})
+* [한글자막 블루레이(프랑스)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-france.md %})
 * [한글자막 블루레이(스페인)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-spain.md %})

@@ -3,7 +3,7 @@ title: "한글자막 블루레이(캐나다)"
 excerpt: "캐나다 출시 한글자막 블루레이 리스트"
 header:
   overlay_image: post/banner-canada.jpg
-  teaser: teaser/subtitle.jpg
+  teaser: teaser/flag_canada.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 캐나다
 modified: 2016-10-13
@@ -27,23 +27,23 @@ modified: 2016-10-13
 |타이틀명               |타입   |비고                           |
 |----------------     |:---:|-------------------------------|
 |[007 - Casino Royale](http://amzn.to/2dN0dnx)|-|구판(신판은 자막없음)|
-|[007 - Goldfinger](http://amzn.to/2ekCez5)|-|2009년 출시|
-|[007 - Goldfinger](http://amzn.to/2dn6XJv)|-|2012년 출시|
-|[007 - Goldfinger](http://amzn.to/2e8rBjq)|-|2015년 출시|
-|[007 - License to Kill](http://amzn.to/2e4qJHO)|-||
-|[007 - The Man With the Golden Gun](http://amzn.to/2eoPnY2)|-|2009년 출시|
-|[007 - The Man With the Golden Gun](http://amzn.to/2e3AmHV)|-|2012년 출시|
-|[007 - The Man With the Golden Gun](http://amzn.to/2eAfw5k)|-|2015년 출시|
-|[007 - Moonraker](http://amzn.to/2dn8O0R)|-|2009년 출시|
-|[007 - Moonraker](http://amzn.to/2ecMmGu)|-|2012년 출시|
-|[007 - Moonraker](http://amzn.to/2evZdXq)|-|2015년 출시|
-|[007 - Quantum of Solace](http://amzn.to/2e8wCbC)|-|2009년 출시|
-|[007 - Quantum of Solace](http://amzn.to/2dPEG14)|-|2011년 출시|
-|[007 - Quantum of Solace](http://amzn.to/2ecRTN8)|-|2012년 출시|
-|[007 - Quantum of Solace](http://amzn.to/2ecPEd1)|-|2015년 출시|
-|[007 - The World is Not Enough](http://amzn.to/2eaMPNC)|-|2009년 출시|
-|[007 - The World is Not Enough](http://amzn.to/2efMrtd)|-|2012년 출시|
-|[007 - The World is Not Enough](http://amzn.to/2eoS2Rt)|-|2015년 출시|
+|[007 - Goldfinger](http://amzn.to/2ekCez5)|-|2009년 출시, 서플 자막|
+|[007 - Goldfinger](http://amzn.to/2dn6XJv)|-|2012년 출시, 서플 자막|
+|[007 - Goldfinger](http://amzn.to/2e8rBjq)|-|2015년 출시, 서플 자막|
+|[007 - License to Kill](http://amzn.to/2e4qJHO)|-|서플 자막|
+|[007 - The Man With the Golden Gun](http://amzn.to/2eoPnY2)|-|2009년 출시, 서플 자막|
+|[007 - The Man With the Golden Gun](http://amzn.to/2e3AmHV)|-|2012년 출시, 서플 자막|
+|[007 - The Man With the Golden Gun](http://amzn.to/2eAfw5k)|-|2015년 출시, 서플 자막|
+|[007 - Moonraker](http://amzn.to/2dn8O0R)|-|2009년 출시, 서플 자막|
+|[007 - Moonraker](http://amzn.to/2ecMmGu)|-|2012년 출시, 서플 자막|
+|[007 - Moonraker](http://amzn.to/2evZdXq)|-|2015년 출시, 서플 자막|
+|[007 - Quantum of Solace](http://amzn.to/2e8wCbC)|-|2009년 출시, 서플 자막|
+|[007 - Quantum of Solace](http://amzn.to/2dPEG14)|-|2011년 출시, 서플 자막|
+|[007 - Quantum of Solace](http://amzn.to/2ecRTN8)|-|2012년 출시, 서플 자막|
+|[007 - Quantum of Solace](http://amzn.to/2ecPEd1)|-|2015년 출시, 서플 자막|
+|[007 - The World is Not Enough](http://amzn.to/2eaMPNC)|-|2009년 출시, 서플 자막|
+|[007 - The World is Not Enough](http://amzn.to/2efMrtd)|-|2012년 출시, 서플 자막|
+|[007 - The World is Not Enough](http://amzn.to/2eoS2Rt)|-|2015년 출시, 서플 자막|
 |[007 - Daniel Craig Collection](http://amzn.to/2dPGbN4)|-|Quantum of Solace만 한글자막|
 |[007 - Daniel Craig Collection](http://amzn.to/2df7sSu)|-|Quantum of Solace만 한글자막|
 |[007 - The Daniel Craig Collection](http://amzn.to/2dNpE8G)|-|2015년 출시(Quantum of Solace만 한글자막)|
@@ -57,5 +57,8 @@ modified: 2016-10-13
 **관련글**
 
 * [한글자막 블루레이(미국)]({% link _bluray/2016-10-10-blu-ray-list-korean-subs-usa.md %})
+* [한글자막 블루레이(영국)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-uk.md %})
+* [한글자막 블루레이(독일)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-germany.md %})
 * [한글자막 블루레이(이탈리아)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-italy.md %})
 * [한글자막 블루레이(스페인)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-spain.md %})
+* [한글자막 블루레이(프랑스)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-france.md %})

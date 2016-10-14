@@ -3,7 +3,7 @@ title: "한글자막 블루레이(스페인)"
 excerpt: "스페인 출시 한글자막 블루레이 리스트"
 header:
   overlay_image: post/banner-spain.jpg
-  teaser: teaser/subtitle.jpg
+  teaser: teaser/flag_spain.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 스페인
 modified: 2016-10-13
@@ -22,16 +22,18 @@ modified: 2016-10-13
 
 |타이틀명               |타입   |비고                           |
 |----------------     |:---:|-------------------------------|
-|[007 - Diamonds Are Forever](http://amzn.to/2ekn2SK)|-||
-|[007 - Dr. No](http://amzn.to/2e4hbMY)|-||
-|[007 - From Russia with Love](http://amzn.to/2ekqDQD)|-||
+|[007 - Diamonds Are Forever](http://amzn.to/2ekn2SK)|-|서플 자막|
+|[007 - Dr. No](http://amzn.to/2e4hbMY)|-|서플 자막|
+|[007 - From Russia with Love](http://amzn.to/2ekqDQD)|-|서플 자막|
 |[007 - GoldenEye](http://amzn.to/2e4iETJ)|-||
-|[007 - The Living Daylights](http://amzn.to/2dZwF6u)|-||
-|[007 - Octopussy](http://amzn.to/2ekFrig)|-||
-|[007 - The Spy Who Loved Me](http://amzn.to/2eoRRpj)|-||
-|[007 - Tomorrow Never Dies](http://amzn.to/2dSZzsc)|-||
-|[007 - You Only Live Twice](http://amzn.to/2dSZHrF)|-||
+|[007 - The Living Daylights](http://amzn.to/2dZwF6u)|-|서플 자막|
+|[007 - Octopussy](http://amzn.to/2ekFrig)|-|서플 자막|
+|[007 - The Spy Who Loved Me](http://amzn.to/2eoRRpj)|-|서플 자막|
+|[007 - Tomorrow Never Dies](http://amzn.to/2dSZzsc)|-|서플 자막|
+|[007 - You Only Live Twice](http://amzn.to/2dSZHrF)|-|서플 자막|
 |[007 - James Bond: Roger Moore Collection](http://amzn.to/2ekeZFE)|-|Live and Let Die(한글자막 x)<br/>The Spy Who Loved Me(한글자막 o)<br/>Moonraker(한글자막 x)<br/>For Your Eyes Only(한글자막 x)<br/>Octopussy(한글자막 o)<br/>A View to a Kill(한글자막 o)|
+|[10,000 BC](http://amzn.to/2e3SAL9)|-|2008년 출시, 서플 자막|
+|[10,000 BC](http://amzn.to/2e3QXx0)|DigiBook|2010년 출시(Premium Collection), 서플 자막|
 |[Gone Girl](http://amzn.to/2dcba46)|DigiPack||
 |[The Maze Runner](http://amzn.to/2e7e9I4)|-||
 ||||
@@ -42,4 +44,7 @@ modified: 2016-10-13
 
 * [한글자막 블루레이(미국)]({% link _bluray/2016-10-10-blu-ray-list-korean-subs-usa.md %})
 * [한글자막 블루레이(캐나다)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-canada.md %})
+* [한글자막 블루레이(영국)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-uk.md %})
+* [한글자막 블루레이(독일)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-germany.md %})
+* [한글자막 블루레이(프랑스)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-france.md %})
 * [한글자막 블루레이(이탈리아)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-italy.md %})
