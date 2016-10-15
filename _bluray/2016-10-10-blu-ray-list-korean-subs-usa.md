@@ -61,9 +61,6 @@ modified: 2016-10-13
 
 **관련글**
 
-* [한글자막 블루레이(캐나다)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-canada.md %})
-* [한글자막 블루레이(영국)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-uk.md %})
-* [한글자막 블루레이(독일)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-germany.md %})
-* [한글자막 블루레이(이탈리아)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-italy.md %})
-* [한글자막 블루레이(스페인)]({% link _bluray/2016-10-13-blu-ray-list-korean-subs-spain.md %})
-* [한글자막 블루레이(프랑스)]({% link _bluray/2016-10-15-blu-ray-list-korean-subs-france.md %})
+{% for br in site.bluray %}
+  * [{{ br.title }}]({{ br.url }})
+{% endfor %}
