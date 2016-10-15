@@ -30,6 +30,6 @@ modified: 2016-10-13
 
 **관련글**
 
-{% for br in site.bluray %}
-  * [{{ br.title }}]({{ br.url }})
+{% for post in site.bluray %}
+  * [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
