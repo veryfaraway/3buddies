@@ -34,6 +34,8 @@ modified: 2016-10-13
 |[007 - James Bond: Roger Moore Collection](http://amzn.to/2ekeZFE)|-|Live and Let Die(한글자막 x)<br/>The Spy Who Loved Me(한글자막 o)<br/>Moonraker(한글자막 x)<br/>For Your Eyes Only(한글자막 x)<br/>Octopussy(한글자막 o)<br/>A View to a Kill(한글자막 o)|
 |[10,000 BC](http://amzn.to/2e3SAL9)|-|2008년 출시, 서플 자막|
 |[10,000 BC](http://amzn.to/2e3QXx0)|DigiBook|2010년 출시(Premium Collection), 서플 자막|
+|[12 Angry Men](http://amzn.to/2e8yVcZ)|-||
+|[12 Monkeys](http://amzn.to/2ec7zzR)|-||
 |[Gone Girl](http://amzn.to/2dcba46)|DigiPack||
 |[The Maze Runner](http://amzn.to/2e7e9I4)|-||
 ||||

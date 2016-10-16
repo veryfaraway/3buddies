@@ -48,6 +48,7 @@ modified: 2016-10-13
 |[007 - Daniel Craig Collection](http://amzn.to/2df7sSu)|-|Quantum of Solace만 한글자막|
 |[007 - The Daniel Craig Collection](http://amzn.to/2dNpE8G)|-|2015년 출시(Quantum of Solace만 한글자막)|
 |[007 - James Bond Blu-ray Collection: Volume 3](http://amzn.to/2e8tCfw)|-|2009년 출시(자막은 개별판 참조)|
+|[12 Monkeys](http://amzn.to/2ekK5Jo)|-||
 |[21](http://amzn.to/2ebHCB4)|-|서플 자막|
 |[300 : Rise of an Empire](http://amzn.to/2ebJjhK)|-|3D Only, 서플 자막|
 ||||

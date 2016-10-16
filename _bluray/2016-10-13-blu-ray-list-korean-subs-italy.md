@@ -27,6 +27,7 @@ modified: 2016-10-13
 |[007 - Tomorrow Never Dies](http://amzn.to/2e7mTxR)|-|서플 자막|
 |[007 - James Bond Collection](http://amzn.to/2dPc4VG)|-|Dr. No(한글자막 o)<br/>From Russia with Love(한글자막 o)<br/>Goldfinger<br/>Thunderball<br/>You Only Live Twice(한글자막 o)<br/>On Her Majesty's Secret Service(한글자막 o)<br/>Diamonds Are Forever(한글자막 o)<br/>Live and Let Die<br/>The Man with the Golden Gun<br/>The Spy Who Loved Me(한글자막 o)<br/>Moonraker<br/>For Your Eyes Only<br/>Octopussy(한글자막 o)<br/>A View to a Kill(한글자막 o)<br/>The Living Daylights(한글자막 o)<br/>Licence to Kill<br/>GoldenEye(한글자막 o)<br/>Tomorrow Never Dies(한글자막 o)<br/>The World is Not Enough<br/>Die Another Day<br/>Casino Royale<br/>Quantum of Solace<br/>Skyfall<br/>Spectre|
 |[10,000 BC](http://amzn.to/2dTcQRT)|-|2011년 출시(Heroes Collection), 서플 자막|
+|[12 Monkeys](http://amzn.to/2e60dQ1)|-||
 |[Taken 3](http://amzn.to/2ekdo2p)|-||
 |[Taken 3](http://amzn.to/2ekbnmS)|SteelBook||
 ||||

@@ -22,6 +22,9 @@ modified: 2016-10-13
 
 |타이틀명               |타입   |비고                           |
 |----------------     |:---:|-------------------------------|
+|[12 Angry Men](http://amzn.to/2ev5fs0)|-||
+|[12 Monkeys](http://amzn.to/2e8Cn7I)|-|2009년 출시|
+|[12 Monkeys](http://amzn.to/2ec7fkX)|-|2013년 출시(Original Poster Series)|
 ||||
 
 ---
