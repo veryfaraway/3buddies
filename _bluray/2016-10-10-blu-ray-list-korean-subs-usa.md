@@ -54,8 +54,15 @@ modified: 2016-10-13
 |[007 - James Bond 10-pack Blu-ray Collection](http://amzn.to/2ecGrkK)|-|2009년 출시(자막은 개별판 참조)|
 |[007 - James Bond 11-Movie Ultimate Collection](http://amzn.to/2ecGHAl)|-|2009년 출시(자막은 개별판 참조)|
 |[12 Monkeys](http://amzn.to/2ekKQCt)|-||
+|[12 Rounds](http://amzn.to/2eqqN48)|-|Extreme Cut|
+|[13 Going On 30](http://amzn.to/2erY7ZI)<br/><cite>완벽한 그녀에게 딱 한가지 없는 것</cite>|-|서플 자막|
+|[20 Million Miles To Earth](http://amzn.to/2efCUDJ)<br/><cite>지구에서 2천만 마일</cite>|-|50th Anniversary Edition|
 |[21](http://amzn.to/2euLyQ8)|-|서플 자막|
 |[300 : Rise of an Empire](http://amzn.to/2ebJjhK)|-|3D Only, 서플 자막|
+|[The 7th Voyage of Sinbad](http://amzn.to/2es6Pr2)|-|서플 자막|
+|[It Came From Beneath the Sea](http://amzn.to/2ejoZ2j)<br/><cite>놈은 바닷속으로부터 왔다</cite>|-||
+|[Ray Harryhausen Collection](http://amzn.to/2efBR6E)|-|It Came From Beneath the Sea(한글자막)<br/>Earth vs. the Flying Saucers<br/>20 Million Miles to Earth(한글자막)<br/>The 7th Voyage of Sinbad(한글자막)|
+|[Ray Harryhausen BD Double Feature](http://amzn.to/2dMvOUT)|-|20 Million Miles To Earth(한글자막)<br/>It Came From Beneath The Sea(한글자막)|
 ||||
 
 ---

@@ -13,25 +13,26 @@ main:
     url: /year-archive
 
 category:
-  - title: "Home"
+  - title: '<i class="fa fa-home" aria-hidden="true"></i> Home'
     url: /
-  - title: "Blu-ray"
+  - title: '<i class="fa fa-play-circle" aria-hidden="true"></i> Blu-ray'
     url: /bluray
   - title: "Category"
     url: /categories
     children:
-      - title: "Films"
+      - title: '<i class="fa fa-film" aria-hidden="true"></i> Films'
         url: /films
-      - title: "Games"
+      - title: '<i class="fa fa-gamepad" aria-hidden="true"></i> Games'
         url: /games
-      - title: "Travels"
+      - title: '<i class="fa fa-plane" aria-hidden="true"></i> Travels'
         url: /travels
 
   - title: "Links"
     children:
-      - title: "겨자씨"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> 겨자씨
+'
         url: http://lovelywolf.tistory.com
-      - title: "주경야근"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> 주경야근'
         url: http://veryfaraway.github.io/digging
-      - title: "Minimal Mistakes Theme"
+      - title: '<i class="fa fa-external-link" aria-hidden="true"></i> Minimal Mistakes Theme'
         url: https://mmistakes.github.io/minimal-mistakes/

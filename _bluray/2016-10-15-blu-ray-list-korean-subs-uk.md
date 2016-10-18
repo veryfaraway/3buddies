@@ -25,6 +25,7 @@ modified: 2016-10-13
 |[12 Angry Men](http://amzn.to/2ev5fs0)|-||
 |[12 Monkeys](http://amzn.to/2e8Cn7I)|-|2009년 출시|
 |[12 Monkeys](http://amzn.to/2ec7fkX)|-|2013년 출시(Original Poster Series)|
+|[It Came From Beneath the Sea](http://amzn.to/2efGDAR)<br/><cite>놈은 바닷속으로부터 왔다</cite>|-||
 ||||
 
 ---

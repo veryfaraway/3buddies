@@ -24,6 +24,8 @@ modified: 2016-10-13
 |----------------     |:---:|-------------------------------|
 |[10,000 BC](http://amzn.to/2dPW6qL)|-|2008년 출시, 서플 자막|
 |[10,000 BC](http://amzn.to/2dTc8Uo)|DigiBook|2012년 출시(Premium Collection), 서플 자막|
+|[20 Million Miles To Earth](http://amzn.to/2eiEqmU)<br/><cite>지구에서 2천만 마일</cite>|-|50th Anniversary Edition|
+|[It Came From Beneath the Sea](http://amzn.to/2eiFy9N)<br/><cite>놈은 바닷속으로부터 왔다</cite>|-||
 ||||
 
 ---

@@ -25,6 +25,8 @@ modified: 2016-10-13
 |[10,000 BC](http://amzn.to/2dTd5MC)|SteelBook|2010년 출시, 서플 자막|
 |[10,000 BC](http://amzn.to/2dZNcaF)|DigiBook|2010년 출시(Premium Collection), 서플 자막|
 |[10,000 BC](http://amzn.to/2dZLpCq)|-|2010년 출시(Star Selection), 서플 자막|
+|[127 Hours](http://amzn.to/2e5IPy3)|-|2011년 출시|
+|[127 Hours](http://amzn.to/2ef7Vsk)|-|2012년 출시(Cine Project)|
 ||||
 
 ---
