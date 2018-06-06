@@ -1,12 +1,13 @@
 ---
-title: "한글자막 블루레이(독일)"
-excerpt: "독일 출시 한글자막 블루레이 리스트"
+title: 한글자막 블루레이(독일)
+date: 2016-10-15 00:00:00 +09:00
+excerpt: 독일 출시 한글자막 블루레이 리스트
 header:
   overlay_image: post/banner-germany.jpg
   teaser: teaser/flag_germany.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 독일
-modified: 2016-10-13
+modified: 2016-10-13 09:00:00 +09:00
 ---
 
 독일에서 출시된 블루레이 중 한글 자막이 포함된 블루레이 리스트입니다.

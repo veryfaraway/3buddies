@@ -1,12 +1,13 @@
 ---
-title: "한글자막 블루레이(프랑스)"
-excerpt: "프랑스 출시 한글자막 블루레이 리스트"
+title: 한글자막 블루레이(프랑스)
+date: 2016-10-15 00:00:00 +09:00
+excerpt: 프랑스 출시 한글자막 블루레이 리스트
 header:
   overlay_image: post/banner-france.jpg
   teaser: teaser/flag_france.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 프랑스
-modified: 2016-10-13
+modified: 2016-10-13 09:00:00 +09:00
 ---
 
 프랑스에서 출시된 블루레이 중 한글 자막이 포함된 블루레이 리스트입니다.

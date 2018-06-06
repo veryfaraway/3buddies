@@ -1,12 +1,13 @@
 ---
-title: "한글자막 블루레이(스페인)"
-excerpt: "스페인 출시 한글자막 블루레이 리스트"
+title: 한글자막 블루레이(스페인)
+date: 2016-10-13 00:00:00 +09:00
+excerpt: 스페인 출시 한글자막 블루레이 리스트
 header:
   overlay_image: post/banner-spain.jpg
   teaser: teaser/flag_spain.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 스페인
-modified: 2016-10-13
+modified: 2016-10-13 09:00:00 +09:00
 ---
 
 스페인에서 출시된 블루레이 중 한글 자막이 포함된 블루레이 리스트입니다.

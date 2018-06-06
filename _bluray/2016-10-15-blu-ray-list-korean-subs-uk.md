@@ -1,12 +1,13 @@
 ---
-title: "한글자막 블루레이(영국)"
-excerpt: "영국 출시 한글자막 블루레이 리스트"
+title: 한글자막 블루레이(영국)
+date: 2016-10-15 00:00:00 +09:00
+excerpt: 영국 출시 한글자막 블루레이 리스트
 header:
   overlay_image: post/banner-uk.jpg
   teaser: teaser/flag_uk.png
 related: true
 keywords: blu-ray, 한글자막, 블루레이, 아마존, 영국
-modified: 2016-10-13
+modified: 2016-10-13 09:00:00 +09:00
 ---
 
 영국에서 출시된 블루레이 중 한글 자막이 포함된 블루레이 리스트입니다.
